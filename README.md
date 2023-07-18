@@ -1,1 +1,2 @@
 hoge
+Testgit statusgit status!
